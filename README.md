@@ -2,7 +2,7 @@
 # DWI YANUAR PRASETIA
 # 312410107
 # KODE PROGAM
-```
+```python
 data_mahasiswa = {}
 
 def tampilkan_menu():
