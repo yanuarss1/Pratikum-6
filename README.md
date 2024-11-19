@@ -3,7 +3,6 @@
 # 312410107
 # KODE PROGAM
 
-V
 data_mahasiswa = {}
 
 def tampilkan_menu():
