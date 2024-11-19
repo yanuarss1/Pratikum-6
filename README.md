@@ -2,7 +2,7 @@
 # DWI YANUAR PRASETIA
 # 312410107
 # KODE PROGAM
-
+```
 data_mahasiswa = {}
 
 def tampilkan_menu():
@@ -90,3 +90,4 @@ while True:
         break
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")
+```
